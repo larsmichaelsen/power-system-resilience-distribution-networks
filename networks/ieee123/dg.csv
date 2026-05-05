@@ -1,0 +1,4 @@
+Bus,P_min_kW,P_max_kW,Type
+20,0,250,DG
+86,0,250,DG
+104,0,250,DG
