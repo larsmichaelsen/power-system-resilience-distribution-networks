@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata below."
+title: "Power System Resilience Distribution Networks"
+type: software
+authors:
+  - family-names: "Michaelsen"
+    given-names: "Lars Røs\u00e5s"
+  - family-names: "Helberg"
+    given-names: "Sigurd Guttorm"
+version: "v1.0-thesis"
+date-released: 2026-05-05
+repository-code: "https://github.com/larsmichaelsen/power-system-resilience-distribution-networks"
+url: "https://github.com/larsmichaelsen/power-system-resilience-distribution-networks"
+abstract: "Python framework for Forward-Backward Sweep load-flow analysis, weakly meshed distribution-network modelling, preliminary N-1 contingency screening, and PLR-based post-contingency assessment."
+license: "MIT"
