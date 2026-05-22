@@ -12,4 +12,4 @@ date-released: 2026-05-05
 repository-code: "https://github.com/larsmichaelsen/power-system-resilience-distribution-networks"
 url: "https://github.com/larsmichaelsen/power-system-resilience-distribution-networks"
 abstract: "Python framework for Forward-Backward Sweep load-flow analysis, weakly meshed distribution-network modelling, preliminary N-1 contingency screening, and PLR-based post-contingency assessment."
-license: "MIT"
+license: "GPL-3.0"
